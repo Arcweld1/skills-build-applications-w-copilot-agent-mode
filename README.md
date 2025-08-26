@@ -1,59 +1,58 @@
-# Build applications with GitHub Copilot agent mode
+# Build applications with GitHub Copilot Agent Mode
 
-<!-- ![](https://github.com/Arcweld1/skills-build-applications-w-copilot-agent-mode/actions/workflows/0-start-course.yml/badge.svg?branch=main) -->
-<img src="https://github.com/user-attachments/assets/8c45e716-1d95-473b-8923-dbbbf0f924b2" alt="octofit-tracker-app" width="30%" height="30%"/>
+![Course status][def3]
+
+<img src="[def4]" alt="octofit-tracker-app" width="30%" height="30%"/>
 
 _Build an application with GitHub Copilot agent mode in less than an hour._
 
 ## Welcome
 
 People love how GitHub Copilot helps them write code faster and with fewer errors.
-But what if GitHub could create a full stack application for your job role based on requirements
-written in natural language.
-In this exercise, we will prompt GitHub Copilot agent mode to create us a complete application.
+But what if Copilot could create a full-stack application from natural-language requirements?
+In this exercise, you’ll prompt **Copilot agent mode** to create a complete application.
 
-- **Who is this for**: Intermediate developers familiar with GitHub Copilot, basic GitHub, and basic web development
-- **What you'll learn**: We'll introduce GitHub Copilot agent mode and how to use it for application development.
-- **What you'll build**: You'll use GitHub Copilot agent mode to create a fitness application as the gym teacher of a high school.
-- **How long**: This course takes less than one hour to complete.
+- **Who is this for:** Intermediate developers familiar with Copilot, basic GitHub, and basic web dev  
+- **What you’ll learn:** How to use Copilot agent mode for application development  
+- **What you’ll build:** A fitness app as a high-school gym teacher  
+- **How long:** < 1 hour
 
-In this exercise, you will:
+### You will:
 
-1. Start up a preconfigured development environment for making a full stack application.
-2. Prompt in GitHub Copilot Chat and select the edit tab and select agent mode from the edit/agent drop down.
-3. Try creating the application with GPT-4o.
-4. Try other LLM models to see other output.
+1. Start a preconfigured dev environment for a full-stack app.
+2. Open **Copilot Chat**, switch to the **Edit** tab, and choose **Agent mode**.
+3. Try generating the app with **GPT-4o**.
+4. Try other models to compare output.
 
-### How to start this exercise
+## How to start this exercise
 
-1. Right-click **Copy Exercise** and open the link in a new tab.
-
-   <a id="copy-exercise">
-      <img src="https://img.shields.io/badge/📠_Copy_Exercise-AAA" height="25pt"/>
+1. **Copy the exercise** (opens in a new tab):  
+   <a id="copy-exercise" href="https://github.com/Arcweld1/skills-build-applications-w-copilot-agent-mode/generate">
+     <img src="https://img.shields.io/badge/📠_Copy_Exercise-AAAAAA" height="25"/>
    </a>
 
-2. In the new tab, most of the fields will automatically fill in for you.
+2. In the new tab, most fields auto-fill.
+   - For **Owner**, choose your personal account or an org.
+   - We recommend a **public** repo; private repos use [Actions minutes](https://docs.github.com/en/billing/managing-billing-for-github-actions/about-billing-for-github-actions).
+   - Click **Create repository**.
 
-   - For owner, choose your personal account or an organization to host the repository.
-   - We recommend creating a public repository, as private repositories will use [Actions minutes](https://docs.github.chttps://github.com/Arcweld1/skills-build-applications-w-copilot-agent-mode/billing/managing-billing-for-github-actions/about-billing-for-github-actions).
-   - Scroll down and click the **Create repository** button at the bottom of the form.
+3. After creation (≈20s), wait for prep and button updates (you may need to refresh):
+   - **Copy Exercise** becomes disabled (gray).
+   - **Start Exercise** becomes enabled (green).
 
-3. After your new repository is created, wait about 20 seconds for the exercise to be prepared and buttons updated. You will continue working from your copy of the exercise.
-
-   - The **Copy Exercise** button will deactivate, changing to gray.
-   - The **Start Exercise** button will activate, changing to green.
-   - You will likely need to refresh the page.
-
-4. Click **Start Exercise**. Follow the step-by-step instructions and feedback will be provided as you progress.
-
-   <a id="start-exercise" href="https://github.com/Arcweld1/skills-build-applications-w-copilot-agent-mode/issues/1">
-      <img src="https://img.shields.io/badge/🚀_Start_Exercise-008000" height="25pt"/>
+4. **Start the exercise:**  
+   <a id="start-exercise" href="[def]">
+     <img src="[def2]" height="25"/>
    </a>
 
-> ❕ **Important:** The **Start Exercise** button will activate after copying the repository. You will probably need to refresh the page.
+> ❕ **Note:** The **Start Exercise** button appears after copying. Refresh if you don’t see it.
 
 ---
 
-[Review the GitHub status page](https://www.githubstatus.com/)
+[Review the GitHub status page](https://www.githubstatus.com/)  
+© 2025 GitHub • [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) • [MIT License](https://gh.io/mit)
 
-&copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+[def]: https://github.com/Arcweld1/skills-build-applications-w-copilot-agent-mode/issues/
+[def2]: https://img.shields.io/badge/🚀_Start_Exercise-008000
+[def3]: https://github.com/Arcweld1/skills-build-applications-w-copilot-agent-mode/actions/workflows/0-start-course.yml/badge.svg?branch=main
+[def4]: https://github.com/user-attachments/assets/8c45e716-1d95-473b-8923-dbbbf0f924b
